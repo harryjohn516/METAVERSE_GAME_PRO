@@ -18,11 +18,6 @@ Staking is presently accessible on the Sepolia Testnet, where participants will 
 
 ![alt text](public/staking.jpg)
 
-### Clone
-
-```
-   git clone https://github.com/coinel7/Metaverse-Game.git
-```
 
 ### Install dependencies
 
