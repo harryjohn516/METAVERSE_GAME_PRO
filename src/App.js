@@ -23,7 +23,7 @@ import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { LandingPage } from "./landingcomponents/LandingPage";
 const App = () => {
-  // const [alertState, setAlertState] = useState(false);
+  const [alertState, setAlertState] = useState(false);
   // const alert = useContext(MyContext);
   const setAlert = (obj) => {
     // setAlertState(obj.status);
