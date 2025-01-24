@@ -25,6 +25,7 @@ import { LandingPage } from "./landingcomponents/LandingPage";
 const App = () => {
   // const [alertState, setAlertState] = useState(false);
   // const alert = useContext(MyContext);
+  //888
   const setAlert = (obj) => {
     // setAlertState(obj.status);
     if (obj.status === "success")
